@@ -75,3 +75,18 @@ student@dl-19:~/punnya$ uptime
  11:21:37 up  1:29,  1 user,  load average: 0.22, 0.23, 0.14
 student@dl-19:~/punnya$ uname
 Linux
+student@dl-18:~/punnya$ grep hello prabu
+hello prabu
+student@dl-18:~/punnya$ rm prabu
+student@dl-18:~/punnya$ touch simplefile
+student@dl-18:~/punnya$ rm simplefile
+student@dl-18:~/punnya$ touch simplefile
+student@dl-18:~/punnya$ mv simplefile RenamedFile
+student@dl-18:~/punnya$ cut -c 1-4 RenamedFile
+student@dl-18:~/punnya$ cut -c 1-4 RenamedFile
+apt
+student@dl-18:~/punnya$ head RenamedFile
+apt apt apt apt apt...ahh aha aha aha
+student@dl-18:~/punnya$ tail RenamedFile
+apt apt apt apt apt...ahh aha aha aha
+
